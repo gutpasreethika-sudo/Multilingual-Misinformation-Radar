@@ -1,25 +1,20 @@
 # Multilingual Misinformation Radar
 
-AI-powered fake news detection system using NLP and Machine Learning.
+An AI-powered web application that detects Fake, Real, and Misleading social media posts using Natural Language Processing (NLP) and Machine Learning.
 
 ## Features
-- Text preprocessing
-- Text cleaning
-- Stopword removal
-- Fake news detection
-- Multilingual support
+
+* Multilingual misinformation detection
+* Fake, Real, and Misleading post classification
+* Interactive Streamlit dashboard
+* Dataset visualization and analysis
+* Language-wise filtering
 
 ## Technologies Used
-- Python
-- Pandas
-- NLP
-- Machine Learning
 
-## Project Structure
-- text_cleaning.py
-- text_analysis.py
-- stopword_removal.py
-- NoteBook/
-
-## Author
-G Sreethika
+* Python
+* Pandas
+* Scikit-Learn
+* Streamlit
+* Machine Learning
+* NLP
